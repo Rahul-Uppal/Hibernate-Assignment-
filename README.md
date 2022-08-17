@@ -1,7 +1,7 @@
 # Hibernate-Assignment-
-![1](https://user-images.githubusercontent.com/64395148/185197064-924eea5c-da7f-4c43-9797-5f1aac016d20.png)
-![2](https://user-images.githubusercontent.com/64395148/185197080-8fb2d0b5-26cf-4c6c-aae6-c6d913cf8bd9.png)
-![3](https://user-images.githubusercontent.com/64395148/185197086-1b0a747d-1ce8-4120-b0b7-d558efa7352f.png)
-![4](https://user-images.githubusercontent.com/64395148/185197092-1cac7af1-6607-4b94-b731-496e20426a4b.png)
-![5](https://user-images.githubusercontent.com/64395148/185197095-26c5400a-0a56-422a-8755-0ad258a0d46c.png)
-![6](https://user-images.githubusercontent.com/64395148/185197103-f5d7e46b-5929-4b8b-8638-eefa07e4d09e.png)
+![_2](https://user-images.githubusercontent.com/64395148/185199074-33c3098d-cbcc-4ab5-9713-b417143b8c00.png)
+![_3](https://user-images.githubusercontent.com/64395148/185199088-cf2d651c-e31b-4705-b404-c5e9ab47a287.png)
+![_4](https://user-images.githubusercontent.com/64395148/185199104-af57bd2f-1963-43e9-9cad-4fc087764482.png)
+![_5](https://user-images.githubusercontent.com/64395148/185199113-a8a52ab8-c5c4-4d20-aec6-e2daa5cf7f31.png)
+![_6](https://user-images.githubusercontent.com/64395148/185199122-76c979f5-1c8a-4c6a-a96b-efc072502378.png)
+![_7](https://user-images.githubusercontent.com/64395148/185199133-0fd667cb-d772-4759-96de-4fbfb7269613.png)
